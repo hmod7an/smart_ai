@@ -1,0 +1,4 @@
+supplier_id,supplier_name,credit_status,rating
+1,SupplierA,debt,4.5
+2,SupplierB,cash,3.8
+3,SupplierC,debt,4.2

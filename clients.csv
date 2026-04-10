@@ -1,0 +1,5 @@
+client_id,client_name,budget_level,segment
+1,ClientA,high,enterprise
+2,ClientB,medium,retail
+3,ClientC,high,enterprise
+4,ClientD,low,retail

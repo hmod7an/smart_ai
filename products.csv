@@ -1,0 +1,11 @@
+product_id,product_name,category
+1,Laptop Dell,Computers
+2,Printer HP,Printers
+3,Monitor Samsung,Displays
+4,Keyboard Logitech,Accessories
+5,Mouse Logitech,Accessories
+6,Router TP-Link,Networking
+7,SSD Kingston,Storage
+8,RAM Corsair,Memory
+9,Webcam Logitech,Accessories
+10,UPS APC,Power

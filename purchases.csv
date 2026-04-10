@@ -1,0 +1,16 @@
+purchase_id,product_id,supplier_name,purchase_price,purchase_date,tax,shipping,expenses
+1,1,SupplierA,3000,2026-01-10,450,100,50
+2,2,SupplierB,900,2026-01-12,135,40,20
+3,3,SupplierC,1200,2026-01-15,180,60,30
+4,4,SupplierA,150,2026-01-18,22,10,5
+5,5,SupplierB,80,2026-01-20,12,8,3
+6,6,SupplierC,320,2026-01-22,48,15,8
+7,7,SupplierA,200,2026-01-25,30,12,6
+8,8,SupplierB,180,2026-01-28,27,10,5
+9,9,SupplierC,120,2026-02-01,18,8,4
+10,10,SupplierA,600,2026-02-03,90,25,12
+11,1,SupplierA,3200,2026-03-10,480,100,50
+12,2,SupplierB,950,2026-03-12,142,40,20
+13,3,SupplierC,1100,2026-03-15,165,60,30
+14,6,SupplierC,380,2026-03-22,57,15,8
+15,7,SupplierA,220,2026-03-25,33,12,6

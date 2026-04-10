@@ -1,0 +1,2 @@
+request_id,request_type,customer_name,phone,email,city,address,product_type,quantity,details,status,created_at
+SUPPORT-20260410234826,support,ha ma,053000000,,,ist,,,have with camera,Open,2026-04-10T23:48:26
